@@ -1,0 +1,20 @@
+#color-blue{
+    color:blue
+}
+.right{text-align: right;}
+#color-green{
+    color:green
+}
+.l-height{
+    line-height: 20px;
+}
+.text-decor{
+    text-decoration: underline;
+}
+.change-color{
+    background-color: black;
+    color: bisque;
+}
+#new-color{
+background-color: rgb(179, 179, 189);
+}
